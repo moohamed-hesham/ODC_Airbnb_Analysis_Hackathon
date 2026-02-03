@@ -1,0 +1,4 @@
+room_id,room_type,room_shared,room_private
+1,Private room,FALSE,TRUE
+2,Entire home/apt,FALSE,FALSE
+3,Shared room,TRUE,FALSE

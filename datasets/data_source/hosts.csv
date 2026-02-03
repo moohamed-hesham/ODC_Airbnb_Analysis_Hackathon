@@ -1,0 +1,5 @@
+host_id,host_is_superhost,multi
+1,FALSE,1
+2,FALSE,0
+3,TRUE,0
+4,TRUE,1
