@@ -31,7 +31,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 # BI: Analytics & Reporting (Data Analysis) 
 ### Overview Analysis
-<img width="1310" height="738" alt="Screenshot 2026-02-07 164758" src="https://github.com/user-attachments/assets/e42f7d8f-47e1-4693-9fbd-f31c5caa5afb" />
+<img width="1315" height="738" alt="image" src="https://github.com/user-attachments/assets/f4926a39-3409-4a7c-bafa-2ba98599ce78" />
 
 ### Rental Performance in Europen Cities
 <img width="1315" height="733" alt="Screenshot 2026-02-07 164820" src="https://github.com/user-attachments/assets/9ba72739-07ac-4a91-9e53-25d8c50b41de" />
